@@ -1,2 +1,2 @@
 # netrunner-moka-icons
-Moka icons for Netrunner Rolling.
+Moka icon theme for Netrunner Rolling.
